@@ -1,5 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/himanshu-wappnet/himanshu-wappnet/blob/main/devcard.svg" width="400" alt="Himanshu Jha's Dev Card"/> </a>
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/himanshu-wappnet/himanshu-wappnet/blob/main/devcard.svg" width="400" alt="Himanshu Jha's Dev Card"/></a>
 - 👋 Hi, I’m Himanshu.
 - 👀 I’m interested in DevOps.
 - 💞️ I’m looking to collaborate on LinkedIn
