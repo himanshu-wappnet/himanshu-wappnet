@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 You can reach here 👇
 - LinkedIn :- (https://www.linkedin.com/in/himanshu-jha-0b039a202/)
-- Email :- jhah934@gmail.com
+- Email :- himanshu.wappnet@gmail.com
 - Twitter :- www.twitter.com/himanshujha2336
 
 <!---
